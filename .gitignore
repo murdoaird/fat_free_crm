@@ -8,8 +8,7 @@ config/deploy.rb
 !config/settings.default.yml
 
 .rspec
-spec/reports
-spec/internal/public/avatars
+++spec/internal/public/avatars
 spec/internal/public/assets
 coverage/*
 db/*.sql*
